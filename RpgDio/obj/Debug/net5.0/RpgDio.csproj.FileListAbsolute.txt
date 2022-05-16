@@ -1,0 +1,16 @@
+C:\workspace\RpgDio\RpgDio\bin\Debug\net5.0\RpgDio.exe
+C:\workspace\RpgDio\RpgDio\bin\Debug\net5.0\RpgDio.deps.json
+C:\workspace\RpgDio\RpgDio\bin\Debug\net5.0\RpgDio.runtimeconfig.json
+C:\workspace\RpgDio\RpgDio\bin\Debug\net5.0\RpgDio.runtimeconfig.dev.json
+C:\workspace\RpgDio\RpgDio\bin\Debug\net5.0\RpgDio.dll
+C:\workspace\RpgDio\RpgDio\bin\Debug\net5.0\RpgDio.pdb
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.csproj.AssemblyReference.cache
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.AssemblyInfoInputs.cache
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.AssemblyInfo.cs
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.csproj.CoreCompileInputs.cache
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.dll
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\refint\RpgDio.dll
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.pdb
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\RpgDio.genruntimeconfig.cache
+C:\workspace\RpgDio\RpgDio\obj\Debug\net5.0\ref\RpgDio.dll
